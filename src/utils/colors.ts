@@ -1,0 +1,28 @@
+export const Colors = {
+  "normal": '#A8A77B',
+  "flying": '#9F8EC5',
+  "rock": '#B7A036',
+  "steel": '#B7B7D1',
+  "fairy": '#F5CADE',
+  "ice": '#8FDCD4',
+  "dark": '#745E50',
+  "bug": '#AABC36',
+  "poison": '#9B489A',
+  "psychic": '#FF558A',
+  "ghost": '#72599A',
+  "electric": '#F7D132',
+  "fighting": '#C1322A',
+  "grass": '#75B948',
+  "ground": '#DDC36C',
+  "water": '#6F8DCB',
+  "fire": '#EF7F2D',
+  "dragon": '#6458A4',
+  "uknown": '#D8D8D8',
+
+  black: '#212121',
+  mediumGray: '#666666',
+  lightGray: '#E0E0E0',
+  white: '#FFFFFF',
+  background: '#F7F7F7',
+}
+
